@@ -1,0 +1,619 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 60;
+	objects = {
+
+/* Begin PBXFileReference section */
+		02D6C3BC2C2B5649007F0972 /* product.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = product.py; sourceTree = "<group>"; };
+		02D6C3BE2C2B5649007F0972 /* weekday_name.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = weekday_name.py; sourceTree = "<group>"; };
+		02D6C3C02C2B5649007F0972 /* last_element.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = last_element.py; sourceTree = "<group>"; };
+		02D6C3C22C2B5649007F0972 /* number_compare.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = number_compare.py; sourceTree = "<group>"; };
+		02D6C3C42C2B5649007F0972 /* reverse_string.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = reverse_string.py; sourceTree = "<group>"; };
+		02D6C3C62C2B5649007F0972 /* single_letter_count.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = single_letter_count.py; sourceTree = "<group>"; };
+		02D6C3C82C2B5649007F0972 /* multiple_letter_count.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = multiple_letter_count.py; sourceTree = "<group>"; };
+		02D6C3CA2C2B5649007F0972 /* list_manipulation.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = list_manipulation.py; sourceTree = "<group>"; };
+		02D6C3CC2C2B5649007F0972 /* is_palindrome.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = is_palindrome.py; sourceTree = "<group>"; };
+		02D6C3CE2C2B5649007F0972 /* frequency.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = frequency.py; sourceTree = "<group>"; };
+		02D6C3D02C2B5649007F0972 /* flip_case.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = flip_case.py; sourceTree = "<group>"; };
+		02D6C3D22C2B5649007F0972 /* multiply_even_numbers.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = multiply_even_numbers.py; sourceTree = "<group>"; };
+		02D6C3D42C2B5649007F0972 /* capitalize.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = capitalize.py; sourceTree = "<group>"; };
+		02D6C3D62C2B5649007F0972 /* compact.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = compact.py; sourceTree = "<group>"; };
+		02D6C3D82C2B5649007F0972 /* intersection.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = intersection.py; sourceTree = "<group>"; };
+		02D6C3DA2C2B5649007F0972 /* partition.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = partition.py; sourceTree = "<group>"; };
+		02D6C3DC2C2B5649007F0972 /* mode.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = mode.py; sourceTree = "<group>"; };
+		02D6C3DE2C2B5649007F0972 /* calculate.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = calculate.py; sourceTree = "<group>"; };
+		02D6C3E02C2B5649007F0972 /* friend_date.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = friend_date.py; sourceTree = "<group>"; };
+		02D6C3E22C2B5649007F0972 /* triple_and_filter.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = triple_and_filter.py; sourceTree = "<group>"; };
+		02D6C3E42C2B5649007F0972 /* extract_full_name.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = extract_full_name.py; sourceTree = "<group>"; };
+		02D6C3E62C2B5649007F0972 /* sum_floats.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = sum_floats.py; sourceTree = "<group>"; };
+		02D6C3E82C2B5649007F0972 /* list_check.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = list_check.py; sourceTree = "<group>"; };
+		02D6C3EA2C2B5649007F0972 /* remove_every_other.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = remove_every_other.py; sourceTree = "<group>"; };
+		02D6C3EC2C2B5649007F0972 /* sum_pairs.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = sum_pairs.py; sourceTree = "<group>"; };
+		02D6C3EE2C2B5649007F0972 /* vowel_count.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = vowel_count.py; sourceTree = "<group>"; };
+		02D6C3F02C2B5649007F0972 /* titleize.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = titleize.py; sourceTree = "<group>"; };
+		02D6C3F22C2B5649007F0972 /* find_factors.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = find_factors.py; sourceTree = "<group>"; };
+		02D6C3F42C2B5649007F0972 /* includes.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = includes.py; sourceTree = "<group>"; };
+		02D6C3F62C2B5649007F0972 /* repeat.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = repeat.py; sourceTree = "<group>"; };
+		02D6C3F82C2B5649007F0972 /* truncate.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = truncate.py; sourceTree = "<group>"; };
+		02D6C3FA2C2B5649007F0972 /* two_list_dictionary.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = two_list_dictionary.py; sourceTree = "<group>"; };
+		02D6C3FC2C2B5649007F0972 /* sum_range.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = sum_range.py; sourceTree = "<group>"; };
+		02D6C3FE2C2B5649007F0972 /* same_frequency.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = same_frequency.py; sourceTree = "<group>"; };
+		02D6C4002C2B5649007F0972 /* two_oldest_ages.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = two_oldest_ages.py; sourceTree = "<group>"; };
+		02D6C4022C2B5649007F0972 /* find_the_duplicate.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = find_the_duplicate.py; sourceTree = "<group>"; };
+		02D6C4042C2B5649007F0972 /* sum_up_diagonals.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = sum_up_diagonals.py; sourceTree = "<group>"; };
+		02D6C4062C2B5649007F0972 /* min_max_key_in_dictionary.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = min_max_key_in_dictionary.py; sourceTree = "<group>"; };
+		02D6C4082C2B5649007F0972 /* find_greater_numbers.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = find_greater_numbers.py; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		02D6C3B12C2B55C1007F0972 = {
+			isa = PBXGroup;
+			children = (
+				02D6C3BD2C2B5649007F0972 /* 01_product */,
+				02D6C3BF2C2B5649007F0972 /* 02_weekday_name */,
+				02D6C3C12C2B5649007F0972 /* 03_last_element */,
+				02D6C3C32C2B5649007F0972 /* 04_number_compare */,
+				02D6C3C52C2B5649007F0972 /* 05_reverse_string */,
+				02D6C3C72C2B5649007F0972 /* 06_single_letter_count */,
+				02D6C3C92C2B5649007F0972 /* 07_multiple_letter_count */,
+				02D6C3CB2C2B5649007F0972 /* 08_list_manipulation */,
+				02D6C3CD2C2B5649007F0972 /* 09_is_palindrome */,
+				02D6C3CF2C2B5649007F0972 /* 10_frequency */,
+				02D6C3D12C2B5649007F0972 /* 11_flip_case */,
+				02D6C3D32C2B5649007F0972 /* 12_multiply_even_numbers */,
+				02D6C3D52C2B5649007F0972 /* 13_capitalize */,
+				02D6C3D72C2B5649007F0972 /* 14_compact */,
+				02D6C3D92C2B5649007F0972 /* 15_intersection */,
+				02D6C3DB2C2B5649007F0972 /* 16_partition */,
+				02D6C3DD2C2B5649007F0972 /* 17_mode */,
+				02D6C3DF2C2B5649007F0972 /* 18_calculate */,
+				02D6C3E12C2B5649007F0972 /* 19_friend_date */,
+				02D6C3E32C2B5649007F0972 /* 20_triple_and_filter */,
+				02D6C3E52C2B5649007F0972 /* 21_extract_full_name */,
+				02D6C3E72C2B5649007F0972 /* 22_sum_floats */,
+				02D6C3E92C2B5649007F0972 /* 23_list_check */,
+				02D6C3EB2C2B5649007F0972 /* 24_remove_every_other */,
+				02D6C3ED2C2B5649007F0972 /* 25_sum_pairs */,
+				02D6C3EF2C2B5649007F0972 /* 26_vowel_count */,
+				02D6C3F12C2B5649007F0972 /* 27_titleize */,
+				02D6C3F32C2B5649007F0972 /* 28_find_factors */,
+				02D6C3F52C2B5649007F0972 /* 29_includes */,
+				02D6C3F72C2B5649007F0972 /* 30_repeat */,
+				02D6C3F92C2B5649007F0972 /* 31_truncate */,
+				02D6C3FB2C2B5649007F0972 /* 32_two_list_dictionary */,
+				02D6C3FD2C2B5649007F0972 /* 33_sum_range */,
+				02D6C3FF2C2B5649007F0972 /* 34_same_frequency */,
+				02D6C4012C2B5649007F0972 /* 35_two_oldest_ages */,
+				02D6C4032C2B5649007F0972 /* 36_find_the_duplicate */,
+				02D6C4052C2B5649007F0972 /* 37_sum_up_diagonals */,
+				02D6C4072C2B5649007F0972 /* 38_min_max_key_in_dictionary */,
+				02D6C4092C2B5649007F0972 /* 39_find_greater_numbers */,
+			);
+			sourceTree = "<group>";
+		};
+		02D6C3BD2C2B5649007F0972 /* 01_product */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3BC2C2B5649007F0972 /* product.py */,
+			);
+			path = 01_product;
+			sourceTree = "<group>";
+		};
+		02D6C3BF2C2B5649007F0972 /* 02_weekday_name */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3BE2C2B5649007F0972 /* weekday_name.py */,
+			);
+			path = 02_weekday_name;
+			sourceTree = "<group>";
+		};
+		02D6C3C12C2B5649007F0972 /* 03_last_element */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3C02C2B5649007F0972 /* last_element.py */,
+			);
+			path = 03_last_element;
+			sourceTree = "<group>";
+		};
+		02D6C3C32C2B5649007F0972 /* 04_number_compare */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3C22C2B5649007F0972 /* number_compare.py */,
+			);
+			path = 04_number_compare;
+			sourceTree = "<group>";
+		};
+		02D6C3C52C2B5649007F0972 /* 05_reverse_string */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3C42C2B5649007F0972 /* reverse_string.py */,
+			);
+			path = 05_reverse_string;
+			sourceTree = "<group>";
+		};
+		02D6C3C72C2B5649007F0972 /* 06_single_letter_count */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3C62C2B5649007F0972 /* single_letter_count.py */,
+			);
+			path = 06_single_letter_count;
+			sourceTree = "<group>";
+		};
+		02D6C3C92C2B5649007F0972 /* 07_multiple_letter_count */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3C82C2B5649007F0972 /* multiple_letter_count.py */,
+			);
+			path = 07_multiple_letter_count;
+			sourceTree = "<group>";
+		};
+		02D6C3CB2C2B5649007F0972 /* 08_list_manipulation */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3CA2C2B5649007F0972 /* list_manipulation.py */,
+			);
+			path = 08_list_manipulation;
+			sourceTree = "<group>";
+		};
+		02D6C3CD2C2B5649007F0972 /* 09_is_palindrome */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3CC2C2B5649007F0972 /* is_palindrome.py */,
+			);
+			path = 09_is_palindrome;
+			sourceTree = "<group>";
+		};
+		02D6C3CF2C2B5649007F0972 /* 10_frequency */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3CE2C2B5649007F0972 /* frequency.py */,
+			);
+			path = 10_frequency;
+			sourceTree = "<group>";
+		};
+		02D6C3D12C2B5649007F0972 /* 11_flip_case */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3D02C2B5649007F0972 /* flip_case.py */,
+			);
+			path = 11_flip_case;
+			sourceTree = "<group>";
+		};
+		02D6C3D32C2B5649007F0972 /* 12_multiply_even_numbers */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3D22C2B5649007F0972 /* multiply_even_numbers.py */,
+			);
+			path = 12_multiply_even_numbers;
+			sourceTree = "<group>";
+		};
+		02D6C3D52C2B5649007F0972 /* 13_capitalize */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3D42C2B5649007F0972 /* capitalize.py */,
+			);
+			path = 13_capitalize;
+			sourceTree = "<group>";
+		};
+		02D6C3D72C2B5649007F0972 /* 14_compact */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3D62C2B5649007F0972 /* compact.py */,
+			);
+			path = 14_compact;
+			sourceTree = "<group>";
+		};
+		02D6C3D92C2B5649007F0972 /* 15_intersection */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3D82C2B5649007F0972 /* intersection.py */,
+			);
+			path = 15_intersection;
+			sourceTree = "<group>";
+		};
+		02D6C3DB2C2B5649007F0972 /* 16_partition */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3DA2C2B5649007F0972 /* partition.py */,
+			);
+			path = 16_partition;
+			sourceTree = "<group>";
+		};
+		02D6C3DD2C2B5649007F0972 /* 17_mode */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3DC2C2B5649007F0972 /* mode.py */,
+			);
+			path = 17_mode;
+			sourceTree = "<group>";
+		};
+		02D6C3DF2C2B5649007F0972 /* 18_calculate */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3DE2C2B5649007F0972 /* calculate.py */,
+			);
+			path = 18_calculate;
+			sourceTree = "<group>";
+		};
+		02D6C3E12C2B5649007F0972 /* 19_friend_date */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3E02C2B5649007F0972 /* friend_date.py */,
+			);
+			path = 19_friend_date;
+			sourceTree = "<group>";
+		};
+		02D6C3E32C2B5649007F0972 /* 20_triple_and_filter */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3E22C2B5649007F0972 /* triple_and_filter.py */,
+			);
+			path = 20_triple_and_filter;
+			sourceTree = "<group>";
+		};
+		02D6C3E52C2B5649007F0972 /* 21_extract_full_name */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3E42C2B5649007F0972 /* extract_full_name.py */,
+			);
+			path = 21_extract_full_name;
+			sourceTree = "<group>";
+		};
+		02D6C3E72C2B5649007F0972 /* 22_sum_floats */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3E62C2B5649007F0972 /* sum_floats.py */,
+			);
+			path = 22_sum_floats;
+			sourceTree = "<group>";
+		};
+		02D6C3E92C2B5649007F0972 /* 23_list_check */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3E82C2B5649007F0972 /* list_check.py */,
+			);
+			path = 23_list_check;
+			sourceTree = "<group>";
+		};
+		02D6C3EB2C2B5649007F0972 /* 24_remove_every_other */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3EA2C2B5649007F0972 /* remove_every_other.py */,
+			);
+			path = 24_remove_every_other;
+			sourceTree = "<group>";
+		};
+		02D6C3ED2C2B5649007F0972 /* 25_sum_pairs */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3EC2C2B5649007F0972 /* sum_pairs.py */,
+			);
+			path = 25_sum_pairs;
+			sourceTree = "<group>";
+		};
+		02D6C3EF2C2B5649007F0972 /* 26_vowel_count */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3EE2C2B5649007F0972 /* vowel_count.py */,
+			);
+			path = 26_vowel_count;
+			sourceTree = "<group>";
+		};
+		02D6C3F12C2B5649007F0972 /* 27_titleize */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3F02C2B5649007F0972 /* titleize.py */,
+			);
+			path = 27_titleize;
+			sourceTree = "<group>";
+		};
+		02D6C3F32C2B5649007F0972 /* 28_find_factors */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3F22C2B5649007F0972 /* find_factors.py */,
+			);
+			path = 28_find_factors;
+			sourceTree = "<group>";
+		};
+		02D6C3F52C2B5649007F0972 /* 29_includes */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3F42C2B5649007F0972 /* includes.py */,
+			);
+			path = 29_includes;
+			sourceTree = "<group>";
+		};
+		02D6C3F72C2B5649007F0972 /* 30_repeat */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3F62C2B5649007F0972 /* repeat.py */,
+			);
+			path = 30_repeat;
+			sourceTree = "<group>";
+		};
+		02D6C3F92C2B5649007F0972 /* 31_truncate */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3F82C2B5649007F0972 /* truncate.py */,
+			);
+			path = 31_truncate;
+			sourceTree = "<group>";
+		};
+		02D6C3FB2C2B5649007F0972 /* 32_two_list_dictionary */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3FA2C2B5649007F0972 /* two_list_dictionary.py */,
+			);
+			path = 32_two_list_dictionary;
+			sourceTree = "<group>";
+		};
+		02D6C3FD2C2B5649007F0972 /* 33_sum_range */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3FC2C2B5649007F0972 /* sum_range.py */,
+			);
+			path = 33_sum_range;
+			sourceTree = "<group>";
+		};
+		02D6C3FF2C2B5649007F0972 /* 34_same_frequency */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C3FE2C2B5649007F0972 /* same_frequency.py */,
+			);
+			path = 34_same_frequency;
+			sourceTree = "<group>";
+		};
+		02D6C4012C2B5649007F0972 /* 35_two_oldest_ages */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C4002C2B5649007F0972 /* two_oldest_ages.py */,
+			);
+			path = 35_two_oldest_ages;
+			sourceTree = "<group>";
+		};
+		02D6C4032C2B5649007F0972 /* 36_find_the_duplicate */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C4022C2B5649007F0972 /* find_the_duplicate.py */,
+			);
+			path = 36_find_the_duplicate;
+			sourceTree = "<group>";
+		};
+		02D6C4052C2B5649007F0972 /* 37_sum_up_diagonals */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C4042C2B5649007F0972 /* sum_up_diagonals.py */,
+			);
+			path = 37_sum_up_diagonals;
+			sourceTree = "<group>";
+		};
+		02D6C4072C2B5649007F0972 /* 38_min_max_key_in_dictionary */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C4062C2B5649007F0972 /* min_max_key_in_dictionary.py */,
+			);
+			path = 38_min_max_key_in_dictionary;
+			sourceTree = "<group>";
+		};
+		02D6C4092C2B5649007F0972 /* 39_find_greater_numbers */ = {
+			isa = PBXGroup;
+			children = (
+				02D6C4082C2B5649007F0972 /* find_greater_numbers.py */,
+			);
+			path = 39_find_greater_numbers;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXLegacyTarget section */
+		02D6C3B62C2B55C1007F0972 /* python_data_structures */ = {
+			isa = PBXLegacyTarget;
+			buildArgumentsString = "$(ACTION)";
+			buildConfigurationList = 02D6C3B92C2B55C1007F0972 /* Build configuration list for PBXLegacyTarget "python_data_structures" */;
+			buildPhases = (
+			);
+			buildToolPath = /Library/Frameworks/Python.framework/Versions/3.12/bin/python3.12;
+			dependencies = (
+			);
+			name = python_data_structures;
+			passBuildSettingsInEnvironment = 1;
+			productName = python_data_structures;
+		};
+/* End PBXLegacyTarget section */
+
+/* Begin PBXProject section */
+		02D6C3B22C2B55C1007F0972 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastUpgradeCheck = 1600;
+				TargetAttributes = {
+					02D6C3B62C2B55C1007F0972 = {
+						CreatedOnToolsVersion = 16.0;
+					};
+				};
+			};
+			buildConfigurationList = 02D6C3B52C2B55C1007F0972 /* Build configuration list for PBXProject "python_data_structures" */;
+			compatibilityVersion = "Xcode 15.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 02D6C3B12C2B55C1007F0972;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				02D6C3B62C2B55C1007F0972 /* python_data_structures */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		02D6C3B72C2B55C1007F0972 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+			};
+			name = Debug;
+		};
+		02D6C3B82C2B55C1007F0972 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ASSETCATALOG_COMPILER_GENERATE_SWIFT_ASSET_SYMBOL_EXTENSIONS = YES;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_USER_SCRIPT_SANDBOXING = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu17;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+			};
+			name = Release;
+		};
+		02D6C3BA2C2B55C1007F0972 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEBUGGING_SYMBOLS = YES;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				DEVELOPMENT_TEAM = XAXAG7567D;
+				GCC_GENERATE_DEBUGGING_SYMBOLS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		02D6C3BB2C2B55C1007F0972 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				CODE_SIGN_STYLE = Automatic;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				DEVELOPMENT_TEAM = XAXAG7567D;
+				OTHER_CFLAGS = "";
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		02D6C3B52C2B55C1007F0972 /* Build configuration list for PBXProject "python_data_structures" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				02D6C3B72C2B55C1007F0972 /* Debug */,
+				02D6C3B82C2B55C1007F0972 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		02D6C3B92C2B55C1007F0972 /* Build configuration list for PBXLegacyTarget "python_data_structures" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				02D6C3BA2C2B55C1007F0972 /* Debug */,
+				02D6C3BB2C2B55C1007F0972 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 02D6C3B22C2B55C1007F0972 /* Project object */;
+}
